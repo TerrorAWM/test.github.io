@@ -1,0 +1,74 @@
+*{
+    margin-left: 35px;
+    margin-right: 35px;
+    text-align: left;
+    padding: 0;
+    background-color: #615e5e;
+    color: white;
+}
+
+.links a{
+    margin: 0px 0px;
+}
+
+.links a:hover{
+    color: #ff7b00;
+}
+
+.links dl{
+    padding-right: 0px;
+    margin-left: 0;
+    color: black;
+}
+
+.links h1{
+    padding-left: 40px;
+}
+
+.header{
+    margin: 0;
+    
+}
+
+.logo{
+    width: 360px;
+    height: 360px;
+    margin: 0 0;
+    font-size: 0px;
+    position: relative;
+    top: 00px;
+    bottom: 0px;
+    right: 135px;
+}
+
+.header{
+    position: relative;
+    bottom: 300px;
+    left: 1000px;
+    bottom: 100px;
+
+}
+
+.headers{
+   text-align: right;
+   display:block;
+   position: relative;
+   bottom: 350px;
+   left: 50px;
+
+}
+
+.cookies p{
+    position: fixed;
+    background-color: #ffbb00; 
+    height: 50px;
+    width: 1300px;
+    padding: 0 0;
+    top: 550px;
+    font-size: 20px;
+    opacity: 90%;
+    left: 0px;
+    text-align: center;
+    color: red;
+}
+
